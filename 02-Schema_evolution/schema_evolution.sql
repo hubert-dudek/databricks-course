@@ -1,6 +1,11 @@
 -- Databricks notebook source
 -- MAGIC %md
--- MAGIC ![Alt](https://adb-3323272837455455.15.azuredatabricks.net/?o=3323272837455455#files/1916581937824048)
+-- MAGIC ![](https://raw.githubusercontent.com/hubert-dudek/databricks-course/main/02-Schema_evolution/tinyint.png)
+
+-- COMMAND ----------
+
+-- MAGIC %md
+-- MAGIC ![Alt](https://raw.githubusercontent.com/hubert-dudek/databricks-course/main/02-Schema_evolution/schema.png)
 
 -- COMMAND ----------
 
